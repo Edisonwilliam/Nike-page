@@ -49,6 +49,10 @@ li a{
 
 .wordbook h1{
   max-width: 200px;
+  color: transparent;
+  background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21zbHQ3d244YXNyNWZ6YXd2NmFraWh5OWVia3UzaXFjdDJnMjN0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y9euf7PEoS7XeZhwC4/giphy.gif);
+  background-position: center;
+  -webkit-background-clip: text;
 }
 
 button{
